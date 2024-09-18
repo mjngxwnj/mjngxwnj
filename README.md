@@ -6,7 +6,7 @@ I'm actively gaining knowledge in Spark, Kafka, Data Pipelines, and Data Warehou
 
 You can talk to me about:
 
-Python 🐍&nbsp;&nbsp;Java ☕
+Python 🐍&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java ☕
 
 Apache Spark 🔥&nbsp;Hadoop 📦     
 Airflow 🚀&nbsp;&nbsp;Apache Kafka ☁️
