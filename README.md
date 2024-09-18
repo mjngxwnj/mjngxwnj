@@ -6,11 +6,11 @@ I'm actively gaining knowledge in Spark, Kafka, Data Pipelines, and Data Warehou
 
 You can talk to me about:
 
-Python 🐍&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java ☕
+Python 🐍&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java ☕
 
-Apache Spark 🔥&nbsp;Hadoop 📦     
-Airflow 🚀&nbsp;&nbsp;Apache Kafka ☁️
+Apache Spark 🔥&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hadoop 📦     
+Airflow 🚀&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apache Kafka ☁️
 
-Snowflake ❄️&nbsp;SQL 📜 
+Snowflake ❄️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL 📜 
 
-Docker 🐋&nbsp;&nbsp;VS Code 🖥️
+Docker 🐋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VS Code 🖥️
