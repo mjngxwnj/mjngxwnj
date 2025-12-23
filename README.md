@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an indie data engineer who builds systems from the ground up — from planning and design to solving real-world problems with clean, reliable code. I specialize in creating scalable data platforms, real-time streaming pipelines, and automated backend systems. My work focuses on designing robust data architectures, implementing monitoring and observability, and building end-to-end pipelines that power analytics, automation, and operational intelligence.
+I'm an indie Data & Analytics Engineer who is learning and growing to solve real-world problems with clean, reliable code. I am driven to build scalable data platforms, real-time streaming pipelines, and automated backend systems. My work focuses on robust data architectures, data modeling, monitoring and observability, and end-to-end pipelines that enable analytics, automation, and operational intelligence.
 
 
 ## 🌐 Socials:
