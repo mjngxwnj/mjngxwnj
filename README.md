@@ -1,8 +1,8 @@
+<!--
 # 💫 About Me:
-I'm an indie Data & Analytics Engineer who is learning and growing to solve real-world problems with clean, reliable code. I am driven to build scalable data platforms, real-time streaming pipelines, and automated backend systems. My work focuses on robust data architectures, data modeling, monitoring and observability, and end-to-end pipelines that enable analytics, automation, and operational intelligence.
+I'm an indie Data & Analytics Engineer
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/HuynhMinhThuan2809) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thuan-huynh-nauht429082/) 
 
 # 💻 Tech Stack:
@@ -15,4 +15,4 @@ I'm an indie Data & Analytics Engineer who is learning and growing to solve real
 ---
 [![](https://visitcount.itsvg.in/api?id=mjngxwnj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-->
